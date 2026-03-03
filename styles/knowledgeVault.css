@@ -108,8 +108,8 @@ nav .menu a{
   /* padding-bottom: 16px; */
 }
 .banner p{
-  font-size: 12px;
-  font-weight:400px;
+  font-size: 18px;
+  font-weight:500px;
   color: #FFFFFF;
   text-align: center;
   /* width: 1360px; */
@@ -130,6 +130,10 @@ nav .menu a{
   background-color: #469165;
   color: #FFFFFF;
   border-radius: 4px;
+
+}
+.bottom-btn1:hover{
+  color: burlywood;
 }
 .arw{
 padding-left: 10px;
@@ -404,4 +408,14 @@ width:20px;
 .fa-regular{
     margin-right:8px;
 }
+.fa-solid{
+  margin-left: 5px;
+}
 
+.bottom{
+  background-color:rgba(102, 51, 153, 0);
+  border:1px solid white;
+}
+.fa-play{
+  margin-right: 5px;
+}
