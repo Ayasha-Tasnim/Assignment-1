@@ -24,7 +24,7 @@ nav {
     margin:0 auto;
     color:##FFFFFF;
 }
-.logo {
+.logo1 {
   max-width: 139px;
   margin-right: auto;
 }
@@ -192,8 +192,9 @@ width:20px;
     height: 60px;
     padding: 2px;
     border-radius: 50%;
-    border: 15px solid rgba(249, 85, 85, 100); 
-   background-color:rgba(249, 85, 85, 100);    
+    background-color: #F95555;
+    /* border: 15px solid rgba(249, 85, 85, 100);  */
+   /* background-color:rgba(249, 85, 85, 100);     */
    
 }
 #solution{
